@@ -25,3 +25,5 @@ Esse site contém os conhecimentos adquiridos durante o curso de HTML e CSS da [
 > Com o conhecimento dessas propriedades é possível estilizar as formas do HTML permitindo imprimir uma personalidade própria a página.
 > 
 ![Certificado DIO](https://hermes.digitalinnovation.one/certificates/cover/E0D13C64.jpg)
+
+[Executar página](https://hbmatias.github.io/HTML-E-CSS/index.html)
