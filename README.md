@@ -26,4 +26,6 @@ Esse site contém os conhecimentos adquiridos durante o curso de HTML e CSS da [
 > 
 ![Certificado DIO](https://hermes.digitalinnovation.one/certificates/cover/E0D13C64.jpg)
 
-[Executar página](https://hbmatias.github.io/HTML-E-CSS/index.html)
+<a href="https://hbmatias.github.io/HTML-E-CSS/Anotacoes-da-aula/" style=" display: inline-block; padding: 10px 20px; background-color: fff; color: white; text-decoration: none;
+  border-radius: 4px;" >Clique aqui</a>
+
