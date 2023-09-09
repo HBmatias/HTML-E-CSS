@@ -23,4 +23,5 @@ Esse site contém os conhecimentos adquiridos durante o curso de HTML e CSS da [
 |Dimmensão e Alinhamento|CSS|Com essas estruturas é possivel alinhar e ou redimencionar elementos HTML|
 
 > Com o conhecimento dessas propriedades é possível estilizar as formas do HTML permitindo imprimir uma personalidade própria a página.
+> 
 ![Certificado DIO](https://hermes.digitalinnovation.one/certificates/cover/E0D13C64.jpg)
